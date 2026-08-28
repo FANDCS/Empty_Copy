@@ -4,7 +4,7 @@ Copy to **RAM**<br>
 **Paste** to <u>*disk*</u>
 
 #### Warning
-<code>RAM works as long as the computer is turned on — beware of data loss.</code>
+<code>RAM works as long as the computer is turned on — beware of data loss. *Recommended for systems with +16GB ram*</code>
 
 ### What is
 It is a simple bash script for Linux that copies file(s) or folder(s) to RAM, which can then be pasted at any time to any device connected to the computer. Be careful, though, because RAM only retains data as long as the computer is turned on. **Not recommended for important data**
