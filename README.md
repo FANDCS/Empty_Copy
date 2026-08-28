@@ -26,5 +26,5 @@ empycopy.sh lang  el|en                # language change</code>
 [Github Release](https://github.com/FANDCS/Empty_Copy/releases)
 
 ### Credits
-- As small and quick script is written by Claude Sonnet 5
+- As small and quick script is written by [Claude Sonnet 5](https://claude.ai)
 - Developer: [Android_Creator](https://github.com/AndroidCreator5)
